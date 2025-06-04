@@ -31,31 +31,6 @@
                 <p class="text-gray-300 text-lg">Copy the code below and paste it into your README.md file</p>
             </div>
 
-            <!-- Instructions -->
-            <div class="bg-blue-900 bg-opacity-50 border border-blue-500 rounded-lg p-6 mb-8">
-                <h2 class="text-xl font-bold mb-4"><i class="fas fa-info-circle mr-2"></i>How to Use:</h2>
-                <ol class="list-decimal list-inside space-y-2 text-gray-300">
-                    <li>Create a new repository with the exact name: <code class="bg-gray-800 px-2 py-1 rounded">Mansoor-98</code></li>
-                    <li>Add a new file called <code class="bg-gray-800 px-2 py-1 rounded">README.md</code></li>
-                    <li>Copy the Markdown code below and paste it into the README.md file</li>
-                    <li>Commit and push - your profile will automatically update!</li>
-                </ol>
-            </div>
-
-            <!-- Copy Button -->
-            <div class="text-center mb-6">
-                <button id="copyButton" class="copy-button bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg">
-                    <i class="fas fa-copy mr-2"></i>Copy Markdown Code
-                </button>
-            </div>
-
-            <!-- Markdown Code Display -->
-            <div class="bg-gray-800 rounded-lg overflow-hidden">
-                <div class="bg-gray-700 px-4 py-2 border-b border-gray-600">
-                    <span class="text-sm font-medium">README.md</span>
-                </div>
-                <div class="p-4">
-                    <pre id="markdownCode" class="text-sm text-gray-100 overflow-x-auto"><code># Hi there! 👋 I'm Saqib Mansoor
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+Innovator;Full+Stack+Web+Developer;Award-Winning+IEEE+Project+Creator;Automation+Enthusiast" alt="Typing SVG" />
