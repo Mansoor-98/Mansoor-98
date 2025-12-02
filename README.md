@@ -3,7 +3,7 @@
 # 🚀 Saqib Mansoor
 ### Full Stack Web Developer & AI Innovator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Recent+Graduate+%7C+Software+Engineer;IEEE+Award+Winner+%7C+BlinkAI+Creator;Full+Stack+Developer+%7C+AI+Enthusiast;Building+the+future%2C+one+project+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Software+Engineer;IEEE+Award+Winner+%7C+BlinkAI+Creator;Full+Stack+Developer+%7C+AI+Enthusiast;Building+the+future%2C+one+project+at+a+time" alt="Typing SVG" />
 
 </div>
 
